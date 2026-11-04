@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5362b06bb4.renxianjiuye.cn/sitemap.xml
